@@ -1,6 +1,6 @@
 # 🎓 Student Dropout Risk Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-dropout-risk.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-dropout-risk-predictor-main.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)](https://scikit-learn.org/)
 
@@ -19,6 +19,11 @@ This tool helps educational institutions identify at-risk students early by anal
 - **Feature Importance Analysis**: Interactive bar charts showing which data points impact the model most.
 - **Model Performance Dashboard**: Detailed transparency into the model's accuracy, F1-score, and AUC-ROC metrics.
 - **Actionable Recommendations**: Specific intervention steps based on the calculated risk level.
+
+## 🔗 Live Demo
+
+You can access the live application here:
+**[https://student-dropout-risk-predictor-main.streamlit.app](https://student-dropout-risk-predictor-main.streamlit.app)**
 
 ## 🚀 Getting Started
 
